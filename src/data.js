@@ -67,7 +67,7 @@ export const experience = [
 export const education = { role: "B.E. — VTU, Bengaluru", dates: "2003 – 2008" }
 
 export const training = [
-  "Full Stack Development — AccioJobs (2022–2023)",
+  "Full Stack Development — AccioJobs (2022–2024)",
   "Web Development — Internshala (2021–2022)",
   "Software Testing — Q Spiders (2014)",
 ]
