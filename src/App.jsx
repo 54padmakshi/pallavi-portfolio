@@ -66,7 +66,7 @@ function Hero() {
         </div>
         <div className="hero-meta">
           <a href={`tel:${contact.phone}`}>📞 {contact.phoneDisplay}</a>
-          <a href={`mailto:${contact.email}`}>{contact.email}</a>
+          <a href={`mailto:${contact.email}`}> {contact.email}</a>
           <a href={contact.linkedin} target="_blank" rel="noopener noreferrer">
             LinkedIn ↗
           </a>
